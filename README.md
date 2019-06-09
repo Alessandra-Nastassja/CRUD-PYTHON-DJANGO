@@ -1,6 +1,6 @@
-pip.exe install virtualenv
-
 # CRUD-PYTHON-DJANGO
+
+pip.exe install virtualenv
 
 * Criando o ambiente virtualizado
 
